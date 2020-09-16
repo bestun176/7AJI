@@ -21,6 +21,7 @@
     "node-cmd": "^3.0.0",
     "node-opus": "^0.3.3",
     "pretty-ms": "^7.0.0",
+    "quick.db": "^7.1.1",
     "request": "^2.88.2",
     "simple-youtube-api": "^5.2.1",
     "snekfetch": "^4.0.4",
